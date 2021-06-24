@@ -19,7 +19,7 @@ sidebar:
     twitter: '@mdiazhdez'
 
     languages:
-      title: Idiomas
+        title: Idiomas
       - idiom: Español
         level: Nativo
 
@@ -100,7 +100,6 @@ experiences:
             Bolivariana de Venezuela”.
 skills:
     title: habilidades y competencia
-
     toolset:
       - name: Java SE
         level: 90%
