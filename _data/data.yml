@@ -19,6 +19,7 @@ sidebar:
     twitter: '@mdiazhdez'
 
     languages:
+      title: Idiomas
       - idiom: Español
         level: Nativo
 
@@ -26,6 +27,7 @@ sidebar:
         level: Competencia básica profesional
 
     interests:
+      title: Interés
       - item: Tecnología
         link:
 
@@ -46,6 +48,7 @@ career-profile:
     Second paragraph if required.
 
 education:
+    title: Estudio
     - degree: Ingeniero en Ciencias Informáticas
       university: Universidad de las Ciencias Informáticas (UCI), Cuba
       time: 2006 - 2011
@@ -56,6 +59,7 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 experiences:
+    title: Expeciencia
     - role: Programador Java Senior
       time: 2017 - Actual
       company: <a href="https://www.topaz.com.uy/">Top Systems</a>,  Uruguay-Montevideo
@@ -95,7 +99,7 @@ experiences:
             Informáticas para el Ministerio del Poder Popular para la Relaciones Interiores, Justicia y Paz" en la república
             Bolivariana de Venezuela”.
 skills:
-    title: Skills &amp; Proficiency
+    title: habilidades y competencia
 
     toolset:
       - name: Java SE
