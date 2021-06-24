@@ -58,10 +58,15 @@ education:
 experiences:
     - role: Programador Java Senior
       time: 2017 - Actual
-      company: Top Systems, Uruguay-Montevideo 
+      company: <a href="https://www.topaz.com.uy/">Top Systems</a>,  Uruguay-Montevideo
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya 
         existentes.
+        Principales proyectos:
+          - Core del sistema bancario
+          - Módulo para el sistema de Pagos instantaneos (PIX)
+          - Módulo para el sistema de transferencias electrónicas disponibles (TED)
+          - Interfaz de conexión con DATAPREV
     - role: Programador
       time: 2014 - 2016
       company: Copextel SA, Cuba-La Habana
@@ -74,7 +79,7 @@ experiences:
           - Módulo de contabilidad del sistema contable “CopextiseSQL”.
     - role: Programador
       time: 2011 - 2014
-      company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a> Universidad de las Ciencias Informáticas (UCI), Cuba-La Habana [ver](https://www.uci.cu/)
+      company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Cuba-La Habana
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya 
         existentes.
