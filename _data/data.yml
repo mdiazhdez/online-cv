@@ -62,7 +62,7 @@ experiences:
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya 
         existentes.
-
+        <br>
         Principales proyectos:
           - Core del sistema bancario
           - Módulo para el sistema de Pagos instantaneos (PIX)
@@ -74,7 +74,7 @@ experiences:
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya 
         existentes.
-
+        <br>
         Principales proyectos:
           - Sistema de gestión para el departamento de Seguridad Informática
           - Sistema de Análisis de Trazas de Internet para Copextel (SATIC).
@@ -86,7 +86,7 @@ experiences:
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya 
         existentes.
-
+        <br>
         Principales proyectos:
           - Solución “Enmascarado de datos para base de datos PostgreSQL (Mask-PG)”
           - Solución de réplica para la Oficina Nacional de Estadísticas e Información (ONEI)
@@ -99,22 +99,22 @@ skills:
 
     toolset:
       - name: Java SE
-        level: 98%
+        level: 90%
 
       - name: JAVA EE
-        level: 98%
-
-      - name: Spring Framework
-        level: 60%
+        level: 90%
 
       - name: DB (Oracle, SQLServer, PosgreSQL)
         level: 70%
 
-      - name: Frontend (Angular, ReactJs)
-        level: 45%
+      - name: Spring Framework
+        level: 65%
 
       - name: Docker
         level: 60%
+
+      - name: Frontend (Angular, ReactJs)
+        level: 45%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
