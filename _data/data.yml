@@ -34,6 +34,7 @@ sidebar:
 
       - item: Java
         link:
+
 career-profile:
   title: Sobre mi
   summary: |
@@ -73,7 +74,7 @@ experiences:
           - Módulo de contabilidad del sistema contable “CopextiseSQL”.
     - role: Programador
       time: 2011 - 2014
-      company: Centro de Tecnologías y Gestión de Datos (DATEC), Universidad de las Ciencias Informáticas (UCI), Cuba-La Habana
+      company: Centro de Tecnologías y Gestión de Datos (DATEC), Universidad de las Ciencias Informáticas (UCI), Cuba-La Habana [ver](https://www.uci.cu/)
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya 
         existentes.
@@ -84,32 +85,6 @@ experiences:
           - Solución “Solución Tecnológica Integral de Integración de Soluciones
             Informáticas para el Ministerio del Poder Popular para la Relaciones Interiores, Justicia y Paz" en la república
             Bolivariana de Venezuela”.
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 skills:
     title: Skills &amp; Proficiency
 
