@@ -62,6 +62,7 @@ experiences:
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya 
         existentes.
+
         Principales proyectos:
           - Core del sistema bancario
           - Módulo para el sistema de Pagos instantaneos (PIX)
@@ -72,17 +73,20 @@ experiences:
       company: Copextel SA, Cuba-La Habana
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya 
-        existentes. 
+        existentes.
+
         Principales proyectos:
           - Sistema de gestión para el departamento de Seguridad Informática
           - Sistema de Análisis de Trazas de Internet para Copextel (SATIC).
           - Módulo de contabilidad del sistema contable “CopextiseSQL”.
+
     - role: Programador
       time: 2011 - 2014
       company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Cuba-La Habana
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya 
         existentes.
+
         Principales proyectos:
           - Solución “Enmascarado de datos para base de datos PostgreSQL (Mask-PG)”
           - Solución de réplica para la Oficina Nacional de Estadísticas e Información (ONEI)
