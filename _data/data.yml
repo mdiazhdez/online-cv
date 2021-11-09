@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Mikel Díaz Hernández
-    tagline: Full Stack Developer
+    tagline: Backend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,7 +23,10 @@ sidebar:
         level: Nativo
 
       - idiom: Inglés
-        level: Competencia básica profesional
+        level: básico
+
+      - idiom: Portugués
+        level: básico
 
     interests:
       - item: Tecnología
@@ -32,7 +35,7 @@ sidebar:
       - item: Programación
         link:
 
-      - item: Java
+      - item: Java / Scala
         link:
 
 career-profile:
@@ -47,62 +50,82 @@ career-profile:
 
 education:
     - degree: Ingeniero en Ciencias Informáticas
-      university: Universidad de las Ciencias Informáticas (UCI), Cuba
+      university: <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI), Cuba</a>
       time: 2006 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 experiences:
-    - role: Programador Java Senior
-      time: 2017 - Actual
+  - role: Programador Java Senior
+      time: febrero 2017 - Actual
       company: <a href="https://www.topaz.com.uy/">Top Systems</a>,  Uruguay-Montevideo
       details: |
-        Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya 
+        Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
         existentes.
         <br>
-        Principales proyectos:
-          - Core del sistema bancario
+        Tareas relevantes:
+          - Implementación y soporte a funcionalidades del core del sistema bancario
           - Módulo para el sistema de Pagos instantaneos (PIX)
           - Módulo para el sistema de transferencias electrónicas disponibles (TED)
           - Interfaz de conexión con DATAPREV
-    - role: Programador
+          - Sistema de actualización de componentes (sistema de actualización del core)
+          - Diseño e implementación de Apis REST/SOAP
+        <br>
+        Tecnologías: Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS
+
+  - role: Programador Scala
+    time: marzo 2018 - Dic 2019
+    company: <a href="https://mevuelo.com.uy/">Travelonux - MeVuelo</a>,  Uruguay-Montevideo
+    details: |
+      Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
+      existentes.
+      <br>
+      Tareas relevantes:
+      - Implementación de sistemas para la gestión de Agencias de Viajes (B2B, B2C)
+      - Conexión con pasarelas de pago (bancard)
+      - Diseño e Implementación de Apis REST
+      <br>
+      Tecnologías: Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, REST
+
+    - role: Programador Java
       time: 2014 - 2016
       company: Copextel SA, Cuba-La Habana
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya 
         existentes.
         <br>
-        Principales proyectos:
+        Tareas relevantes:
           - Sistema de gestión para el departamento de Seguridad Informática
           - Sistema de Análisis de Trazas de Internet para Copextel (SATIC).
           - Módulo de contabilidad del sistema contable “CopextiseSQL”.
+        <br>
+        Tecnologías: Java, Oracle, PostgreSQL, Git
 
-    - role: Programador
+    - role: Programador Java
       time: 2011 - 2014
       company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Cuba-La Habana
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya 
         existentes.
         <br>
-        Principales proyectos:
+        Tareas relevantes:
           - Solución “Enmascarado de datos para base de datos PostgreSQL (Mask-PG)”
           - Solución de réplica para la Oficina Nacional de Estadísticas e Información (ONEI)
           - Solución de “Réplica de datos para el departamento de Recursos Humanos de la UCI”
           - Solución “Solución Tecnológica Integral de Integración de Soluciones
             Informáticas para el Ministerio del Poder Popular para la Relaciones Interiores, Justicia y Paz" en la república
             Bolivariana de Venezuela”.
+        <br>
+        Tecnologías: Java, PostgreSQL, Git, PL/Psql
 skills:
     title: habilidades y competencia
 
     toolset:
       - name: Java SE
-        level: 90%
+        level: 95%
 
-      - name: JAVA EE
-        level: 90%
+      - name: Java EE
+        level: 95%
+
+      - name: Scala
+        level: 45%
 
       - name: DB (Oracle, SQLServer, PosgreSQL)
         level: 70%
@@ -117,4 +140,4 @@ skills:
         level: 45%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  CV Online | Mikel Díaz Hernández
