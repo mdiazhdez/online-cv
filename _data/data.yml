@@ -41,12 +41,7 @@ sidebar:
 career-profile:
   title: Sobre mi
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Amante de la tecnología y de la programación. Ingeniero de software con experiencia en el desarrollo de sofware con mayores habilidades en backend.
 
 education:
     - degree: Ingeniero en Ciencias Informáticas
@@ -68,7 +63,7 @@ experiences:
           - Sistema de actualización de componentes (sistema de actualización del core)
           - Diseño e implementación de Apis REST/SOAP
         <br>
-        Tecnologías: Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS
+        Tecnologías: Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS, Docker
 
   - role: Programador Scala
     time: marzo 2018 - Dic 2019
@@ -82,7 +77,7 @@ experiences:
       - Conexión con pasarelas de pago (bancard)
       - Diseño e Implementación de Apis REST
       <br>
-      Tecnologías: Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, REST
+      Tecnologías: Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, REST, Docker
 
     - role: Programador Java
       time: 2014 - 2016
