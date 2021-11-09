@@ -111,7 +111,6 @@ experiences:
         Tecnologías: Java, PostgreSQL, Git, PL/Psql
 skills:
     title: habilidades y competencia
-
     toolset:
       - name: Java SE
         level: 95%
