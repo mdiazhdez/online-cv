@@ -45,40 +45,38 @@ career-profile:
 
 education:
     - degree: Ingeniero en Ciencias Informáticas
-      university: <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI), Cuba</a>
+      university: Universidad de las Ciencias Informáticas (UCI), Cuba
       time: 2006 - 2011
 experiences:
-  - role: Programador Java Senior
-      time: febrero 2017 - Actual
-      company: <a href="https://www.topaz.com.uy/">Top Systems</a>,  Uruguay-Montevideo
+    - role: Programador Java Senior
+        time: febrero 2017 - Actual
+        company: <a href="https://www.topaz.com.uy/">Top Systems</a>,  Uruguay-Montevideo
+        details: |
+          Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
+          existentes.
+          <br>
+          Tareas relevantes:
+            - Implementación y soporte a funcionalidades del core del sistema bancario
+            - Módulo para el sistema de Pagos instantaneos (PIX)
+            - Módulo para el sistema de transferencias electrónicas disponibles (TED)
+            - Interfaz de conexión con DATAPREV
+            - Sistema de actualización de componentes (sistema de actualización del core)
+            - Diseño e implementación de Apis REST/SOAP
+          <br>
+          Tecnologías: Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS, Docker
+    - role: Programador Scala
+      time: marzo 2018 - Dic 2019
+      company: <a href="https://mevuelo.com.uy/">Travelonux - MeVuelo</a>,  Uruguay-Montevideo
       details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
         existentes.
         <br>
         Tareas relevantes:
-          - Implementación y soporte a funcionalidades del core del sistema bancario
-          - Módulo para el sistema de Pagos instantaneos (PIX)
-          - Módulo para el sistema de transferencias electrónicas disponibles (TED)
-          - Interfaz de conexión con DATAPREV
-          - Sistema de actualización de componentes (sistema de actualización del core)
-          - Diseño e implementación de Apis REST/SOAP
+        - Implementación de sistemas para la gestión de Agencias de Viajes (B2B, B2C)
+        - Conexión con pasarelas de pago (bancard)
+        - Diseño e Implementación de Apis REST
         <br>
-        Tecnologías: Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS, Docker
-
-  - role: Programador Scala
-    time: marzo 2018 - Dic 2019
-    company: <a href="https://mevuelo.com.uy/">Travelonux - MeVuelo</a>,  Uruguay-Montevideo
-    details: |
-      Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
-      existentes.
-      <br>
-      Tareas relevantes:
-      - Implementación de sistemas para la gestión de Agencias de Viajes (B2B, B2C)
-      - Conexión con pasarelas de pago (bancard)
-      - Diseño e Implementación de Apis REST
-      <br>
-      Tecnologías: Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, REST, Docker
-
+        Tecnologías: Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, REST, Docker
     - role: Programador Java
       time: 2014 - 2016
       company: Copextel SA, Cuba-La Habana
@@ -92,7 +90,6 @@ experiences:
           - Módulo de contabilidad del sistema contable “CopextiseSQL”.
         <br>
         Tecnologías: Java, Oracle, PostgreSQL, Git
-
     - role: Programador Java
       time: 2011 - 2014
       company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Cuba-La Habana
