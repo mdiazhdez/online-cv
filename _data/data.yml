@@ -52,22 +52,22 @@ education:
     time: 2006 - 2011
 
 experiences:
-  - role: Programador Java Senior
-    time: febrero 2017 - Actual
+  - role: Senior Java Developer
+    time: February 2017 - Present
     company: <a href="https://www.topaz.com.uy/">Top Systems</a>,  Uruguay-Montevideo
     details: |
       Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
       existentes.
       <br>
-      Tareas relevantes:
+      <b>Tareas relevantes:</b>
         - Implementación y soporte a funcionalidades del core del sistema bancario
         - Módulo para el sistema de Pagos instantaneos (PIX)
         - Módulo para el sistema de transferencias electrónicas disponibles (TED)
         - Interfaz de conexión con DATAPREV
         - Sistema de actualización de componentes (sistema de actualización del core)
         - Diseño e implementación de Apis REST/SOAP
-      <br>
-      Tecnologías: Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS, Docker
+      <br><br>
+      <b>Technologies:</b>: Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS, Docker
 
   - role: Programador Scala
     time: marzo 2018 - Dic 2019
