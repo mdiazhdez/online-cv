@@ -54,11 +54,8 @@ education:
 experiences:
   - role: Senior Java Developer
     time: February 2017 - Present
-    company: <a href="https://www.topaz.com.uy/">Top Systems</a>,  Montevideo-Uruguay
+    company: <a href="https://www.topaz.com.uy/">Topaz</a>,  Montevideo-Uruguay
     details: |
-      Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
-      existentes.
-      <br><br>
       <b>Tareas relevantes:</b>
         - Implementación y soporte a funcionalidades del core del sistema bancario
         - Módulo para el sistema de Pagos instantaneos (PIX)
@@ -68,45 +65,36 @@ experiences:
         - Diseño e implementación de Apis REST/SOAP
       <br><br>
       <b>Technologies:</b><br>
-      Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS, Docker
+      Java, SpringBoot, oracle, SqlServer, Apis REST/SOAP, Wildfly, Git, CVS, Docker
 
   - role: Scala Developer
     time: March 2018 - December 2019
     company: <a href="https://www.travelonux.com/">Travelonux</a> - <a href="https://mevuelo.com/">MeVuelo</a>,  Montevideo-Uruguay
     details: |
-      Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
-      existentes.
-      <br><br>
       <b>Tareas relevantes:</b>
         - Implementación de sistemas para la gestión de Agencias de Viajes (B2B, B2C)
         - Conexión con pasarelas de pago (bancard)
         - Diseño e Implementación de Apis REST
       <br><br>
       <b>Technologies:</b><br>
-      Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, REST, Docker
+      Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, EST, Docker
 
   - role: Java Developer
     time: 2014 - 2016
     company: Copextel SA, Habana-Cuba
     details: |
-      Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya
-      existentes.
-      <br><br>
       <b>Tareas relevantes:</b>
         - Sistema de gestión para el departamento de Seguridad Informática
         - Sistema de Análisis de Trazas de Internet para Copextel (SATIC).
         - Módulo de contabilidad del sistema contable “CopextiseSQL”.
       <br><br>
       <b>Technologies:</b><br>
-      Java, Oracle, PostgreSQL, Git
+      Java, Oracle, PostgreSQL, Git, SpringFramework
 
   - role: Java Developer
     time: 2011 - 2014
     company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Habana-Cuba
     details: |
-      Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya
-      existentes.
-      <br><br>
       <b>Tareas relevantes:</b>
         - Solución “Enmascarado de datos para base de datos PostgreSQL (Mask-PG)”
         - Solución de réplica para la Oficina Nacional de Estadísticas e Información (ONEI)
