@@ -47,7 +47,7 @@ career-profile:
     Amante de la tecnología y de la programación. Ingeniero de software con experiencia en el desarrollo de sofware.
 
 education:
-  - degree: Ingeniero en Ciencias Informáticas
+  - degree: Engineer's Degree
     university: University of Informatic Sciences (UCI), Habana-Cuba
     time: 2006 - 2011
 
@@ -115,7 +115,7 @@ experiences:
       <b>Technologies:</b> Java, PostgreSQL, Git, PL/Psql
 
 skills:
-  title: habilidades y competencia
+  title: Skills &amp; Proficiency
   toolset:
     - name: Java EE/SE
       level: 95%
