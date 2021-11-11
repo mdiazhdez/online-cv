@@ -58,7 +58,7 @@ experiences:
     details: |
       Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
       existentes.
-      <br>
+      <br><br>
       <b>Tareas relevantes:</b>
         - Implementación y soporte a funcionalidades del core del sistema bancario
         - Módulo para el sistema de Pagos instantaneos (PIX)
@@ -76,7 +76,7 @@ experiences:
     details: |
       Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
       existentes.
-      <br>
+      <br><br>
       <b>Tareas relevantes:</b>
         - Implementación de sistemas para la gestión de Agencias de Viajes (B2B, B2C)
         - Conexión con pasarelas de pago (bancard)
@@ -91,7 +91,7 @@ experiences:
     details: |
       Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya
       existentes.
-      <br>
+      <br><br>
       <b>Tareas relevantes:</b>
         - Sistema de gestión para el departamento de Seguridad Informática
         - Sistema de Análisis de Trazas de Internet para Copextel (SATIC).
@@ -106,7 +106,7 @@ experiences:
     details: |
       Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones y soporte a las ya
       existentes.
-      <br>
+      <br><br>
       <b>Tareas relevantes:</b>
         - Solución “Enmascarado de datos para base de datos PostgreSQL (Mask-PG)”
         - Solución de réplica para la Oficina Nacional de Estadísticas e Información (ONEI)
