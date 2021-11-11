@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Mikel Díaz Hernández
-  tagline: Software Developer
+  tagline: Backend Developer
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -19,30 +19,27 @@ sidebar:
   twitter: '@mdiazhdez'
 
   languages:
-    - idiom: Spanish
-      level: Native
+    - idiom: Español
+      level: Nativo
 
-    - idiom: English
-      level: Basic
+    - idiom: Inglés
+      level: básico
 
-    - idiom: Portuguese
-      level: Basic
+    - idiom: Portugués
+      level: básico
 
   interests:
-    - item: Technology
+    - item: Tecnología
       link:
 
-    - item: Developer (Java, Scala)
+    - item: Programación
       link:
 
-    - item: Frameworks (Spring, Play, Quarkus)
-      link:
-        -
-    - item: Database (SQL, NoSQL)
+    - item: Java / Scala
       link:
 
 career-profile:
-  title: About me
+  title: Sobre mi
   summary: |
     Amante de la tecnología y de la programación. Ingeniero de software con experiencia en el desarrollo de sofware con mayores habilidades en backend.
 
@@ -52,8 +49,8 @@ education:
     time: 2006 - 2011
 
 experiences:
-  - role: Senior Java Developer
-    time: February 2017 - Present
+  - role: Programador Java Senior
+    time: febrero 2017 - Actual
     company: <a href="https://www.topaz.com.uy/">Top Systems</a>,  Uruguay-Montevideo
     details: |
         Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
@@ -67,11 +64,11 @@ experiences:
           - Sistema de actualización de componentes (sistema de actualización del core)
           - Diseño e implementación de Apis REST/SOAP
         <br>
-        <b>Technologies:</b> Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS, Docker
+        Tecnologías: Java, SpringBoot, oracle, SqlServer, WS REST/SOAP, Wildfly, Git, CVS, Docker
 
-  - role: Scala Developer
-    time: March 2018 - December 2019
-    company: <a href="https://www.travelonux.com/">Travelonux</a> - <a href="https://mevuelo.com/">MeVuelo</a>,  Uruguay-Montevideo
+  - role: Programador Scala
+    time: marzo 2018 - Dic 2019
+    company: <a href="https://mevuelo.com.uy/">Travelonux - MeVuelo</a>,  Uruguay-Montevideo
     details: |
       Entre las principales tareas realizadas se encuentran análisis/diseño e implementación de nuevas soluciones para el core bancario y soporte a las ya
       existentes.
@@ -81,9 +78,9 @@ experiences:
       - Conexión con pasarelas de pago (bancard)
       - Diseño e Implementación de Apis REST
       <br>
-      <b>Technologies:</b> Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, REST, Docker
+      Tecnologías: Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, REST, Docker
 
-  - role: Java Developer
+  - role: Programador Java
     time: 2014 - 2016
     company: Copextel SA, Cuba-La Habana
     details: |
@@ -95,9 +92,9 @@ experiences:
         - Sistema de Análisis de Trazas de Internet para Copextel (SATIC).
         - Módulo de contabilidad del sistema contable “CopextiseSQL”.
       <br>
-      <b>Technologies:</b> Java, Oracle, PostgreSQL, Git
+      Tecnologías: Java, Oracle, PostgreSQL, Git
 
-  - role: Java Developer
+  - role: Programador Java
     time: 2011 - 2014
     company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Cuba-La Habana
     details: |
@@ -112,28 +109,31 @@ experiences:
           Informáticas para el Ministerio del Poder Popular para la Relaciones Interiores, Justicia y Paz" en la república
           Bolivariana de Venezuela”.
       <br>
-      <b>Technologies:</b> Java, PostgreSQL, Git, PL/Psql
+      Tecnologías: Java, PostgreSQL, Git, PL/Psql
 
 skills:
   title: habilidades y competencia
   toolset:
-    - name: Java EE/SE
+    - name: Java SE
+      level: 95%
+
+    - name: Java EE
       level: 95%
 
     - name: Scala
       level: 45%
 
-    - name: Spring Framework
-      level: 65%
-
-    - name: Play Framework
-      level: 45%
-
     - name: DB (Oracle, SQLServer, PosgreSQL)
       level: 70%
 
+    - name: Spring Framework
+      level: 65%
+
+    - name: Docker
+      level: 60%
+
     - name: Frontend (Angular, ReactJs)
-      level: 35%
+      level: 45%
 
 footer:
   CV Online | Mikel Díaz Hernández
