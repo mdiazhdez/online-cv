@@ -108,26 +108,26 @@ experiences:
       <b>Technologies:</b><br>
       Java, PostgreSQL, Git, PL/Psql
 
-skills:
-  title: Skills &amp; Proficiency
-  toolset:
-    - name: Java EE/SE
-      level: 95%
-
-    - name: Scala
-      level: 45%
-
-    - name: Spring Framework
-      level: 65%
-
-    - name: Play Framework
-      level: 45%
-
-    - name: DB (Oracle, SQLServer, PosgreSQL)
-      level: 70%
-
-    - name: Frontend (Angular, ReactJs)
-      level: 35%
+#skills:
+#  title: Skills &amp; Proficiency
+#  toolset:
+#    - name: Java EE/SE
+#      level: 95%
+#
+#    - name: Scala
+#      level: 45%
+#
+#    - name: Spring Framework
+#      level: 65%
+#
+#    - name: Play Framework
+#      level: 45%
+#
+#    - name: DB (Oracle, SQLServer, PosgreSQL)
+#      level: 70%
+#
+#    - name: Frontend (Angular, ReactJs)
+#      level: 35%
 
 footer: >
   CV Online | Mikel Díaz Hernández
