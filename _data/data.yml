@@ -29,9 +29,6 @@ sidebar:
       level: Basic
 
   interests:
-    - item: Technology
-      link:
-
     - item: Developer (Java, Scala)
       link:
 
@@ -39,6 +36,9 @@ sidebar:
       link:
 
     - item: Database (SQL, NoSQL)
+      link:
+        -
+    - item: DevOps (CI/CD, Docker, Jenkins)
       link:
 
 career-profile:
