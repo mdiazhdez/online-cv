@@ -49,8 +49,8 @@ career-profile:
     APIs design and development (Rest/SOAP) and database management experience. Always open to new challenges and developments (I love coding).
 
 education:
-  - degree: Engineer's Degree
-    university: Computer Sciences University (UCI), Habana-Cuba
+  - degree: Software Engineer
+    university: Computer Sciences University (UCI), Havana-Cuba
     time: 2006 - 2011
 
 experiences:
@@ -83,7 +83,7 @@ experiences:
 
   - role: Java Developer
     time: 2014 - 2016
-    company: Copextel SA, Habana-Cuba
+    company: Copextel SA, Havana-Cuba
     details: |
       <b>Main tasks:</b>
         - Management system for Computer Security department
@@ -95,7 +95,7 @@ experiences:
 
   - role: Java Developer
     time: 2011 - 2014
-    company: Centro de Tecnologías y Gestión de Datos (DATEC), <a href="https://www.uci.cu/">Universidad de las Ciencias Informáticas (UCI)</a>, Habana-Cuba
+    company: Data Access Technology Center (DATEC), <a href="https://www.uci.cu/">Computer Sciences University (UCI)</a>, Havana-Cuba
     details: |
       <b>Main tasks:</b>
         - "Masking data for PostgreSQL database (Mask-PG)" solution
