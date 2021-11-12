@@ -46,7 +46,7 @@ career-profile:
   summary: |
     Technology and programming lover, always looking to improve my software development skills by updating my knowledge and at the same time
     acquiring good programming practices with backend mainly experience.
-    APIs design and development (Rest/SOAP) and database management experience. Always open to new challenges and developments (I love coding).
+    Design and implementation of REST/SOAP APIs and database management experience. Always open to new challenges and developments (I love coding).
 
 education:
   - degree: Software Engineer
@@ -64,7 +64,7 @@ experiences:
         - Module for the available electronic transfers system (TED)
         - Connection interface with DATAPREV
         - Component update system (core update system)
-        - APIs REST / SOAP design and implementation.
+        - Design and implementation of REST/SOAP APIs
       <br><br>
       <b>Technologies:</b><br>
       Java, SpringBoot, Oracle, SqlServer, Apis REST/SOAP, Wildfly, Git, CVS, Docker
@@ -75,8 +75,8 @@ experiences:
     details: |
       <b>Main tasks:</b>
         - Systems implementation for the Travel Agencies management (B2B, B2C)
-        - Connection with payment gateways (bancard)
-        - Apis REST design and implementation
+        - Connection with payment gateways (bancard, pagosweb)
+        - Design and implementation of REST/SOAP APIs
       <br><br>
       <b>Technologies:</b><br>
       Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, Apis REST, Docker
