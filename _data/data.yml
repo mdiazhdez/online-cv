@@ -67,7 +67,7 @@ experiences:
         - APIs REST / SOAP design and implementation.
       <br><br>
       <b>Technologies:</b><br>
-      Java, SpringBoot, oracle, SqlServer, Apis REST/SOAP, Wildfly, Git, CVS, Docker
+      Java, SpringBoot, Oracle, SqlServer, Apis REST/SOAP, Wildfly, Git, CVS, Docker
 
   - role: Scala Developer
     time: March 2018 - December 2019
@@ -79,7 +79,7 @@ experiences:
         - Apis REST design and implementation
       <br><br>
       <b>Technologies:</b><br>
-      Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, EST, Docker
+      Scala, Play Framework, Slick, MySQL, PostgreSQL, Git, Apis REST, Docker
 
   - role: Java Developer
     time: 2014 - 2016
